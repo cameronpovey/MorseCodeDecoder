@@ -1,6 +1,6 @@
 # MorseCodeDecoder
-* [Part 2 Link]()
-* [Worksheet 3 Link]()
+* [Part 2 Link](https://github.com/cameronpovey/BinaryHeaps)
+* [Worksheet 3 Link](https://github.com/cameronpovey/UDP_Packets.git)
 
 *Feb 2023*
 
@@ -60,7 +60,7 @@ To print out the tree we have a `printTree` function which, via recursion, print
 
 Output:
 
-![Ouput of tree]()
+![Ouput of tree](https://github.com/cameronpovey/MorseCodeDecoder/blob/main/Screenshot_2023-02-28_at_17.17.16.png?raw=true)
 
 ### How to run
 This git comes with two files, a test file and the main `morse.py` where the morse code takes place. This codes only requirements is a valid version of python, preferably python 3.
